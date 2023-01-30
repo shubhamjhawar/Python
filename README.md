@@ -15,6 +15,11 @@ steps = [[-1,0],[1,0],[0,1],[0,-1]]
 This represents up , down , right ,left direction 
 We check if the steps + current cell is only in the 
 right way and not in illegal cell
+
+```
+
+## Complexities
+```
 The space and time complexity of the approach is as follows
 O(MXN) with the extra visited array of same complexity and Time complexity as O(MN)
 The improvement in space and time complexity are as follows
